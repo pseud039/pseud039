@@ -19,7 +19,6 @@ Learning and building systems for real problems.
 [![X](https://img.shields.io/badge/x-161b22?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pseud039)
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pseudo.0609@email.com)
 
----
 
 <h2>stats</h2>
 
